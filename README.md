@@ -1,4 +1,4 @@
-# Substrate Node Template
+# Experimental Chain made using Substrate
 
 A new FRAME-based Substrate node, ready for hacking :rocket:
 
