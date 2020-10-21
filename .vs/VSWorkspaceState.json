@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\node",
     "\\node\\src",
-    "\\pallets\\template\\src",
     "\\runtime",
     "\\runtime\\src"
   ],
