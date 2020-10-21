@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\node",
+    "\\node\\src",
     "\\pallets\\template\\src",
+    "\\runtime",
     "\\runtime\\src"
   ],
-  "SelectedNode": "\\pallets",
+  "SelectedNode": "\\runtime\\src\\lib.rs",
   "PreviewInSolutionExplorer": false
 }

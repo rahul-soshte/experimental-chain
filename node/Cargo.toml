@@ -1,7 +1,7 @@
 [package]
-authors = ['Substrate DevHub <https://github.com/substrate-developer-hub>']
+authors = ['Rahul']
 build = 'build.rs'
-description = 'A fresh FRAME-based Substrate node, ready for hacking.'
+description = 'A experimental chain made using Substrate'
 edition = '2018'
 homepage = 'https://substrate.dev'
 license = 'Unlicense'
