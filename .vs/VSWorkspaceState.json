@@ -3,9 +3,11 @@
     "",
     "\\node",
     "\\node\\src",
+    "\\pallets\\template",
     "\\pallets\\template\\src",
+    "\\runtime",
     "\\runtime\\src"
   ],
-  "SelectedNode": "\\node\\src\\rpc.rs",
+  "SelectedNode": "\\node\\src\\chain_spec.rs",
   "PreviewInSolutionExplorer": false
 }
