@@ -3,9 +3,12 @@
     "",
     "\\node",
     "\\node\\src",
-    "\\runtime",
+    "\\pallets",
+    "\\pallets\\template\\src",
+    "\\pallets\\test-pallet",
+    "\\pallets\\test-pallet\\.github\\workflows",
     "\\runtime\\src"
   ],
-  "SelectedNode": "\\node\\build.rs",
+  "SelectedNode": "\\pallets\\template",
   "PreviewInSolutionExplorer": false
 }
